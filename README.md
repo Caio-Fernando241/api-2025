@@ -83,7 +83,9 @@ O cliente aprovou e validou a proposta, permitindo o desenvolvimento do sistema 
 
 ## 👨‍💻 Desenvolvido por
 
-Alunos de Ciência da Computação – UNIFEOB  
+Alunos de Ciência da Computação – UNIFEOB 
+Projeto Integrado Desenvolvimento de Aplicação Web
+N.032.A - Projeto Desenvolvimento de Aplicação Web - UNIFEOB
 Projeto Integrador – 2025
 
 ---
